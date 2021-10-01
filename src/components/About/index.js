@@ -12,13 +12,6 @@ function About() {
       />
       <hr></hr>
       <div>
-        {/* <img
-          class="mb-5"
-          id="avatar"
-          src="https://friel2021.github.io/Portfolio/Assets/images/Gregphoto.jpg"
-          alt="avatar"
-        /> */}
-
         <p>
           A self titled IT guru and newly aspiring Web Developer. I work best
           under pressure and look forward to meeting any and all challenges
