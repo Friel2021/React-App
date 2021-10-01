@@ -43,8 +43,8 @@
     "id": 6,
     "name": "Work Day Scheduler",
     "image": "https://github.com/fondofhats/workday-scheduler/raw/master/workday-scheduler.png",
-    "github": "https://github.com/fondofhats/workday-scheduler",
-    "deploy": "https://fondofhats.github.io/workday-scheduler/",
+    "github": "https://github.com/Friel2021/Day-Planner",
+    "deploy": "https://friel2021.github.io/Day-Planner/",
     "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
   }
 ]
