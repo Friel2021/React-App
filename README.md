@@ -10,7 +10,7 @@ IMAGE 1:
 
 ---
 
-[Deployed Website Link]
+![Deployed Website Link]
 
 ## Project Overview
 
