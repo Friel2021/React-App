@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Budget Tracker",
+    "image": "https://user-images.githubusercontent.com/87154134/134983888-9a49b17c-f409-4026-bb7f-cd5d787b4020.png",
+    "github": "https://github.com/Friel2021/Budget-Tracker",
+    "deploy": "https://secure-anchorage-54980.herokuapp.com/",
+    "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
+  },
+  {
+    "id": 2,
+    "name": "Workout Tracker",
+    "image": "https://user-images.githubusercontent.com/87154134/134427366-7b5ebbd5-0397-4e24-ae4c-4de88cabc4ef.png",
+    "github": "https://github.com/Friel2021/Workout-Tracker",
+    "deploy": "https://nameless-reaches-23126.herokuapp.com/?id=61529055f076070016c7ec22",
+    "topics": "node, sequelize, handlebars, express-session, mongoDB, mysql, model-view-controller, dotenv"
+  },
+  {
+    "id": 3,
+    "name": "Tech Blog",
+    "image": "https://user-images.githubusercontent.com/87154134/134100282-aa166f75-79e0-4d92-8b1f-18665b8e07d1.png",
+    "github": "https://github.com/Friel2021/Tech-Blog",
+    "deploy": "https://sleepy-crag-26324.herokuapp.com/",
+    "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+  },
+  {
+    "id": 4,
+    "name": "Weather Dashboard",
+    "image": "https://user-images.githubusercontent.com/87154134/128941047-d0421165-e1d0-4546-b71f-81acecf03bd6.png",
+    "github": "https://github.com/Friel2021/Weather-Dashboard",
+    "deploy": "https://friel2021.github.io/Weather-Dashboard/",
+    "topics": "Node, moment.js, javascript, jQuery, localStorage, API"
+  },
+  {
+    "id": 5,
+    "name": "The Ultimate System (group project)",
+    "image": "https://user-images.githubusercontent.com/87154134/135670292-19564d48-7141-4ef2-9753-6e0d4c432db2.png",
+    "github": "https://github.com/iatenine/ultimate-system",
+    "deploy": "https://blooming-stream-34219.herokuapp.com/",
+    "topics": "Node, CSS, JavaScript, Handlebars, HTML"
+  },
+  {
+    "id": 6,
+    "name": "Work Day Scheduler",
+    "image": "https://github.com/fondofhats/workday-scheduler/raw/master/workday-scheduler.png",
+    "github": "https://github.com/fondofhats/workday-scheduler",
+    "deploy": "https://fondofhats.github.io/workday-scheduler/",
+    "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
+  }
+]
