@@ -10,7 +10,7 @@ function Resume() {
         <div class="mt-5">
           <h2 className="top-title">Gregory Friel</h2>
           <ul>
-            <li>full-stack web development</li>
+            <li>Full-Stack Web Development</li>
           </ul>
 
           <p class="mt-5">

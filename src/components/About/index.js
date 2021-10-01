@@ -10,7 +10,7 @@ function About() {
           class="mb-5"
           id="avatar"
           src="https://friel2021.github.io/Portfolio/Assets/images/Gregphoto.jpg"
-          alt="avatar image"
+          alt="avatar"
         />
 
         <p>
