@@ -4,7 +4,7 @@
 
 IMAGE 1:
 
-![Screenshot](https://github.com/tutchings/20-react-portfolio/blob/master/public/images/readme-imgs/portfolio4.PNG)
+![Screenshot](https://github.com/Friel2021/React-App/blob/main/public/FireShot%20Capture%20016%20-%20React%20App%20-%20localhost.png)
 
 ---
 
