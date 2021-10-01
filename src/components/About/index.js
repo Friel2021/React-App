@@ -4,14 +4,20 @@ function About() {
   return (
     <section className="container">
       <h2 class="top-title">Gregory Friel</h2>
+      <img
+        class="mb-5"
+        id="avatar"
+        src="https://friel2021.github.io/Portfolio/Assets/images/Gregphoto.jpg"
+        alt="avatar"
+      />
       <hr></hr>
       <div>
-        <img
+        {/* <img
           class="mb-5"
           id="avatar"
           src="https://friel2021.github.io/Portfolio/Assets/images/Gregphoto.jpg"
           alt="avatar"
-        />
+        /> */}
 
         <p>
           A self titled IT guru and newly aspiring Web Developer. I work best

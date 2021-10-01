@@ -9,7 +9,7 @@ function Resume() {
         <div class="mt-5">
           <h2 className="top-title">Gregory Friel</h2>
           <ul>
-            <li>Full-Stack Web Development</li>
+            <li>Full-Stack Web Developer</li>
           </ul>
 
           <p class="mt-5">
@@ -25,14 +25,14 @@ function Resume() {
             href="https://github.com/Friel2021/React-App/blob/main/Documents/Gregory%20Friel%20Resume.pdf"
             class="link"
           >
-            Download Resume
+            Downloadable Resume
           </a>
         </div>
       </div>
 
       <div class="justify-content-center mt-5">
         <div>
-          <h2 className="top-title">Proficiencies</h2>
+          <h2 className="top-title">Proficient Technologies:</h2>
           <ul>
             <li>
               Languages: HTML5, CSS3, JavaScript, JQuery, Bootstrap, Node JS,
