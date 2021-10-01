@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 function Nav(props) {
   return (
     <div>
-      <Navbar expand="lg" bg="success" sticky="top">
+      <Navbar expand="lg" bg="info" sticky="top">
         <NavLink className="nav-link" to="/">
           <div class="text-light">
             <h4 class="nav-title-font">Gregory Friel</h4>

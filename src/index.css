@@ -1,6 +1,7 @@
-@import url("https://fonts.googleapis.com/css?family=Audiowide");
-@import url("https://fonts.googleapis.com/css?family=Days+One");
-@import url("https://fonts.googleapis.com/css?family=Oswald");
+@import url("https://fonts.googleapis.com/css2?family=Nova+Square&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@800&family=Roboto+Slab&display=swap");
 
 main {
   margin: 0 auto;
@@ -59,7 +60,7 @@ h1 {
 
 h2 {
   font-size: 2rem;
-  font-family: "Abril Fatface";
+  font-family: "Roboto Slab";
   color: var(--darker);
 }
 
@@ -158,17 +159,17 @@ li {
 }
 
 .nav-font {
-  font-family: "Audiowide";
+  font-family: "Nova Square";
   font-size: 1.5em;
 }
 
 .nav-title-font {
-  font-family: "Days One";
+  font-family: "Helvetica";
   font-size: 1.9em;
 }
 
 .top-title {
-  font-family: "Oswald";
+  font-family: "Roboto Slab";
   margin-top: 20px;
 }
 
@@ -298,7 +299,7 @@ textarea {
 }
 
 .card .content {
-  font-size: 18px;
+  font-size: 25px;
   background-color: var(--white);
   color: var(--cadet-blue);
   font-weight: bold;
@@ -325,7 +326,7 @@ textarea {
 }
 
 .topics {
-  font-size: small;
+  font-size: medium;
   font-style: italic;
   color: var(--cultured);
   background-color: var(--white);

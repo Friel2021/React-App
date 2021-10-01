@@ -3,7 +3,6 @@ import React from "react";
 function Resume() {
   return (
     <section class="container">
-      <h2 className="top-title">Resume</h2>
       <hr></hr>
 
       <div>
@@ -23,7 +22,7 @@ function Resume() {
           </p>
 
           <a
-            href="https://github.com/Friel2021/React-App/blob/main/Gregory%20Friel%20Resume.pdf"
+            href="https://github.com/Friel2021/React-App/blob/main/Documents/Gregory%20Friel%20Resume.pdf"
             class="link"
           >
             Download Resume

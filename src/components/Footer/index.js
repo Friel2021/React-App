@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer className="footer bg-dark fixed-bottom">
+    <footer className="footer bg-danger fixed-bottom">
       <a href="https://github.com/Friel2021">
         <img
           src="https://img.icons8.com/color/48/000000/github--v1.png"

@@ -16,11 +16,17 @@ function About() {
         <p>
           A self titled IT guru and newly aspiring Web Developer. I work best
           under pressure and look forward to meeting any and all challenges
-          head-on. Being busy is my forte and I enjoy all things computer
-          related. My previous work experience is in Sales and IT / Help Desk
-          assistance. I have an A+ Certification and now looking forward to
-          moving from the hardware side of the things to the software side!
+          head-on.
         </p>
+        <p>
+          Being busy is my forte and I enjoy all things computer related. My
+          previous work experience is in Sales and IT / Help Desk assistance.
+        </p>
+        <p>
+          I have an A+ Certification and now looking forward to moving from the
+          hardware side of the things to the software side!
+        </p>
+        <p></p>
       </div>
     </section>
   );
