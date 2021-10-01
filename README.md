@@ -4,13 +4,7 @@
 
 IMAGE 1:
 
-![Screenshot of Final Project 1](https://github.com/tutchings/20-react-portfolio/blob/master/public/images/readme-imgs/portfolio4.PNG)
-
----
-
-IMAGE 2:
-
-![Screenshot of Final Project 2](https://github.com/tutchings/20-react-portfolio/blob/master/public/images/readme-imgs/portfolio3.PNG)
+![Screenshot](https://github.com/Friel2021/React-App/blob/main/public/FireShot%20Capture%20016%20-%20React%20App%20-%20localhost.png)
 
 ---
 
