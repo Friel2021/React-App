@@ -36,11 +36,11 @@ function Resume() {
           <h2 className="top-title">Proficiencies</h2>
           <ul>
             <li>
-              HTML, CSS (Bootstrap, HandleBars), JavaScript, jQuery, React.js,
-              IndexedDB,
+              Languages: HTML5, CSS3, JavaScript, JQuery, Bootstrap, Node JS,
+              MySQL, Express, Handlebars, React
               <br />
-              Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, NoSQL,
-              APIs, Templating.
+              Applications: Word processing, spreadsheets, databases, desktop
+              publishing, Internet based applications, command line
             </li>
           </ul>
         </div>
