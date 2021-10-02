@@ -152,6 +152,7 @@ li {
 }
 
 .nav-title-font {
+  justify-content: center;
   font-family: "Orbitron";
   color: black;
   font-size: 1.9em;
