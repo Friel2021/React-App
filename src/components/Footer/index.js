@@ -17,6 +17,13 @@ function Footer() {
           className="icon"
         />
       </a>
+      <a href="https://twitter.com/GJFriel">
+        <img
+          src="https://img.icons8.com/color/48/000000/twitter--v2.png"
+          alt="Twitter"
+          className="icon"
+        />
+      </a>
     </footer>
   );
 }
