@@ -10,7 +10,7 @@ IMAGE 1:
 
 ---
 
-![https://glacial-forest-10116.herokuapp.com/]
+Deployed Link : [https://glacial-forest-10116.herokuapp.com/]
 
 ## Project Overview
 
